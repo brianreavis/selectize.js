@@ -50,5 +50,8 @@
   },
   "engines": {
     "node": "*"
+  },
+  "resolutions": {
+    "sifter/async": "^2.6.4"
   }
 }
