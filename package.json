@@ -37,7 +37,7 @@
     "chai": "4.3.7",
     "concurrently": "7.6.0",
     "del": "^6.1.1",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-clean-css": "^4.3.0",
     "gulp-cli": "^2.3.0",
     "gulp-concat": "^2.6.1",
