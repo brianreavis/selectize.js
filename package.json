@@ -34,7 +34,7 @@
     "bootstrap3": "npm:bootstrap@3.4.1",
     "bootstrap4": "npm:bootstrap@4.6.0",
     "bootstrap5": "npm:bootstrap@5.2.3",
-    "chai": "4.3.7",
+    "chai": "5.1.1",
     "concurrently": "7.6.0",
     "del": "^6.1.1",
     "gulp": "^4.0.2",
