@@ -53,5 +53,10 @@
   },
   "resolutions": {
     "sifter/async": "^2.6.4"
+  },
+  "overrides": {
+    "optimist": {
+      "minimist": "0.2.1"
+    }
   }
 }
