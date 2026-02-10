@@ -14,10 +14,10 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "2.2.0",
-    "@docusaurus/preset-classic": "2.2.0",
+    "@docusaurus/core": "3.9.2",
+    "@docusaurus/preset-classic": "3.9.2",
     "@docusaurus/remark-plugin-npm2yarn": "^2.2.0",
-    "@docusaurus/theme-live-codeblock": "^2.2.0",
+    "@docusaurus/theme-live-codeblock": "^3.9.2",
     "@mdx-js/react": "^1.6.22",
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/forms": "^0.5.3",
@@ -25,7 +25,7 @@
     "@tailwindcss/typography": "^0.5.8",
     "autoprefixer": "^10.4.13",
     "clsx": "^1.2.1",
-    "docusaurus-plugin-google-adsense": "^0.3.1",
+    "docusaurus-plugin-google-adsense": "^0.3.3",
     "framer-motion": "6.5.1",
     "postcss": "^8.4.19",
     "postcss-focus-visible": "^7.1.0",
